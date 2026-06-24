@@ -1,12 +1,13 @@
-**Yunsup Sim · 심윤섭**
+### Yunsup Sim · 심윤섭
 
-A frontend developer trying to connect every port — not boxing myself into the frontend, but always looking at where it meets the backend, and where UI meets UX.
-Day to day, that means build tooling, design systems, and DX.
+> 쉽진 않겠지만, **모든 포트를 잇는 프론트엔드 개발자**가 되려고 해요. 프론트엔드 안에만 머물지 않고, 백엔드와 맞닿는 지점은 어디인지, UI와 UX가 만나는 자리는 어디인지 들여다보는 걸 좋아합니다.
 
-- 🔧 Cut CI release builds 160s → 60s and local builds 1min → 4s (custom Vite plugins, CRA → Rsbuild)
-- 🎨 Maintainer of [DaleUI](https://github.com/DaleStudy/daleui) — a Panda CSS design system (RSC, React 19)
-- 📰 Curate [Ones To Watch](https://ones-to-watch.ethansup.net/) — a frontend newsletter that explains mechanisms, not summaries
-- 🗣️ Spoke at [.NET Conf 2025 x Seoul](https://www.youtube.com/watch?v=1EArAy9eFgk) — "Blazor and the Frontend Ecosystem"
+A frontend developer trying to **connect every port** — looking at where the frontend meets the backend, and where UI meets UX. Day to day, that means build tooling, design systems, and DX.
+
+- 🔧 Cut CI release builds **160s → 60s** and local builds **1min → 4s** (custom Vite plugins, CRA → Rsbuild)
+- 🎨 Maintainer of **[DaleUI](https://github.com/DaleStudy/daleui)** — a Panda CSS design system (RSC, React 19)
+- 📰 Curate **[Ones To Watch](https://ones-to-watch.ethansup.net/)** — a frontend newsletter that explains mechanisms, not summaries
+- 🗣️ Spoke at **[.NET Conf 2025 x Seoul](https://www.youtube.com/watch?v=1EArAy9eFgk)** — "Blazor and the Frontend Ecosystem"
 
 <details>
 <summary>🎤 Talks</summary>
@@ -22,7 +23,7 @@ Day to day, that means build tooling, design systems, and DX.
 
 - [PayloadCMS](https://github.com/payloadcms/payload) — richtext-lexical fixes, Korean i18n
 - [vapor-ui](https://github.com/goorm-dev/vapor-ui) (goorm) — core, DX, and accessibility details
-- [stackflow](https://github.com/daangn/stackflow) (daangn) — bug fix from app work
+- [stackflow](https://github.com/daangn/stackflow) (Danggeun) — bug fix from app work
 
 </details>
 
