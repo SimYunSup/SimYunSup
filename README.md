@@ -23,7 +23,7 @@ A frontend developer trying to **connect every port** — looking at where the f
 
 - [PayloadCMS](https://github.com/payloadcms/payload) — richtext-lexical fixes, Korean i18n
 - [vapor-ui](https://github.com/goorm-dev/vapor-ui) (goorm) — core, DX, and accessibility details
-- [stackflow](https://github.com/daangn/stackflow) (Danggeun) — bug fix from app work
+- [stackflow](https://github.com/daangn/stackflow) (Daangn) — bug fix from app work
 
 </details>
 
